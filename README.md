@@ -11,6 +11,5 @@ python3 main.py
 ## Requirements
 
 ```
-pip3 install moviepy
-pip3 install Pillow==9.5.0
+pip3 install moviepy Pillow==9.5.0
 ```
